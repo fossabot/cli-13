@@ -4,6 +4,7 @@
 [![license](https://img.shields.io/npm/l/npm.svg)](https://npm.im/npm)
 [![CI - cli](https://github.com/npm/cli/actions/workflows/ci.yml/badge.svg)](https://github.com/npm/cli/actions/workflows/ci.yml)
 [![Benchmark Suite](https://github.com/npm/cli/actions/workflows/benchmark.yml/badge.svg)](https://github.com/npm/cli/actions/workflows/benchmark.yml)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhyeshin3%2Fcli.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhyeshin3%2Fcli?ref=badge_shield)
 
 ### Requirements
 
@@ -62,3 +63,7 @@ npm <command>
 #### Is "npm" an acronym for "Node Package Manager"?
 
 Contrary to popular belief, **`npm`** **is not** in fact an acronym for "Node Package Manager"; It is a recursive bacronymic abbreviation for **"npm is not an acronym"** (if the project was named "ninaa", then it would be an acronym). The precursor to **`npm`** was actually a bash utility named **"pm"**, which was the shortform name of **"pkgmakeinst"** - a bash function that installed various things on various platforms. If **`npm`** were to ever have been considered an acronym, it would be as "node pm" or, potentially "new pm".
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhyeshin3%2Fcli.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhyeshin3%2Fcli?ref=badge_large)
